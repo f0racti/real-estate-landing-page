@@ -1,0 +1,11 @@
+* HEADER:
+- nav
+- contents: text, image
+
+* MAIN: 
+- review, logos
+- hiw
+- features: 1, 2
+- newsletter
+
+* FOOTER
