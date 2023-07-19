@@ -77,3 +77,55 @@ nav {
   margin-left: 1.8rem;
   font-weight: 500;
 }
+
+.header-contents {
+  display: flex;
+}
+
+.header-contents-text {
+  margin-top: 13rem;
+}
+
+.header-contents-text-welcome {
+  font-size: 1.8rem;
+  color: #687690;
+  font-weight: 500;
+  letter-spacing: 0.18px;
+}
+
+.header-contents-text-title {
+  margin-top: 0.8rem;
+  color: #000336;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 7.6rem;
+}
+
+.header-contents-text-des {
+  color: #5A6473;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 3.2rem;
+  margin-top: 3rem;
+}
+
+.header-contents-image {
+  margin-left: auto;
+  margin-top: 3.9rem;
+  position: relative;
+  left: 10rem;
+}
+
+.header-contents-text-button {
+  width: 17rem;
+  height: 5rem;
+  border-radius: 1.2rem;
+  background: #0F1B4C;
+  color: #fff;
+  font-weight: 500;
+  font-size: 1.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 4rem;
+}
